@@ -26,22 +26,28 @@
 
 <td width="55%" valign="top">
 
-# 💫 About Me
+### 💫 About Me
 
+<table>
+<tr>
+<td>
 
-const givantha = {
-    education: "IT Undergraduate",
-    currentlyWorking: "Intervix",
-    learning: "JavaScript",
-    skills: [
-      "Java",
-      "Python",
-      "MERN Stack",
-      "Machine Learning",
-      "SQL"
-    ],
-    funFact: "I enjoy building real-world projects 🚀"
-};
+🚀 Currently working on **Intervix**
+
+🌱 Learning **JavaScript & Machine Learning**
+
+💻 Ask me about **Java, MERN Stack, SQL, Python**
+
+🎓 **IT Undergraduate**
+
+📧 **[sameeragivantha@gmail.com](mailto:sameeragivantha@gmail.com)**
+
+⚡ Fun fact: *I enjoy building real-world projects*
+
+</td>
+</tr>
+</table>
+
 
 
 📧 **Email:**
