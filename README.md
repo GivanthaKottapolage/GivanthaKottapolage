@@ -1,4 +1,4 @@
-```html
+
 <h1 align="center">Hi 👋, I'm Givantha Kottapolage</h1>
 <h3 align="center">Passionate IT Student | Full-Stack Developer | Exploring AI & Data Science</h3>
 
@@ -110,4 +110,3 @@
 <img src="https://raw.githubusercontent.com/givanthakottapolage/givanthakottapolage/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-```
