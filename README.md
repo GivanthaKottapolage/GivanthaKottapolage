@@ -28,7 +28,7 @@
 
 # 💫 About Me
 
-```javascript
+
 const givantha = {
     education: "IT Undergraduate",
     currentlyWorking: "Intervix",
@@ -42,7 +42,7 @@ const givantha = {
     ],
     funFact: "I enjoy building real-world projects 🚀"
 };
-````
+
 
 📧 **Email:**
 [sameeragivantha@gmail.com](mailto:sameeragivantha@gmail.com)
