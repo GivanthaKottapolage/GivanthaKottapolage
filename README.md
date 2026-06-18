@@ -1,4 +1,4 @@
-````md
+
 <!-- ======================= HEADER ======================= -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:000000,50:111111,100:1e1e1e&text=Givantha%20Kottapolage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20|%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
@@ -151,5 +151,4 @@ src="https://raw.githubusercontent.com/GivanthaKottapolage/GivanthaKottapolage/o
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1e1e1e,50:111111,100:000000&section=footer"/>
 
-```
-```
+
