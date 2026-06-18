@@ -1,4 +1,4 @@
-```md
+
 <!-- Banner -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Givantha%20Kottapolage&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Passionate%20IT%20Student%20|%20Full-Stack%20Developer%20|%20AI%20Explorer&descAlignY=55" width="100%" />
@@ -98,4 +98,4 @@ src="https://raw.githubusercontent.com/GivanthaKottapolage/GivanthaKottapolage/o
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
-```
+
